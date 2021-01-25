@@ -1,6 +1,6 @@
 # Getting started with development
 
-Thank you showing an interest in contributing! Pull Requests are welcome and encouraged! This document gives an overview of the development standards for the project. Please note that this file covers contributing to any of our projects, most of which are in Python. For non-Python projects, everything regarding Submitting a Pull Request (PR) applies. 
+Thank you for showing an interest in contributing! Pull Requests are welcome and encouraged! This document gives an overview of the development standards for the project. Please note that this file covers contributing to any of our projects, most of which are in Python. For non-Python projects, everything regarding Submitting a Pull Request (PR) applies.
 
 ## Principles
 
@@ -76,6 +76,7 @@ An individual test can be run as follows:
 ```bash
 python -m unittest -v test/python/<testname>.py
 ```
+
 ## Submitting a Pull Request (PR)
 
 On each commit to GitHub (including forks), a GitHub Action script runs a full build process. This build validates that the build runs, all tests pass and that all code meets code standards. Anything that runs in the build script has a corresponding way to run locally and should be run locally before committing as shown below.
