@@ -33,6 +33,8 @@ pip install -e .[dev]
 pre-commit install
 ```
 
+_Note: txtai requires an additional `all` argument when installing. In other words, `pip install -e .[all,dev]`_
+
 Once complete, run the tests to validate everything is working properly
 
 ```bash
