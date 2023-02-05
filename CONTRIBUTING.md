@@ -38,6 +38,7 @@ _Note: txtai requires an additional `all` argument when installing. In other wor
 Once complete, run the tests to validate everything is working properly
 
 ```bash
+make data
 make coverage
 coverage report
 ```
@@ -86,6 +87,7 @@ On each commit to GitHub (including forks), a GitHub Action script runs a full b
 1. Run all tests locally
 
     ```bash
+    make data
     make coverage
     coverage report
     ```
