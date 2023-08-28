@@ -1,5 +1,7 @@
 # How to contribute
 
+*NOTE: Please file an issue or post a message in Slack before working on a pull request. This will ensure there is no wasted or duplication of effort.*
+
 Thank you for showing an interest in contributing! Pull Requests are welcome and encouraged! This document gives an overview of the development standards for the project. Please note that this file covers contributing to any of our projects, most of which are in Python. For non-Python projects, everything regarding how to Submit a Pull Request (PR) applies.
 
 ## Principles
