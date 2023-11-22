@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://neuml.com"><img src="https://raw.githubusercontent.com/neuml/.github/master/profile/logo.png"></a>
+    <a href="https://neuml.com"><img src="https://raw.githubusercontent.com/neuml/.github/master/profile/logo.png"></a>
 </p>
 
 <p align="center">
