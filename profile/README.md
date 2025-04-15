@@ -4,16 +4,16 @@
 
 <p align="center">
     <a href="https://cal.com/neuml/intro">
-        <img src="https://img.shields.io/badge/meeting-schedule-eeeeee" alt="Meet">
+        <img src="https://img.shields.io/badge/meeting-schedule-03a9f4" alt="Meet">
     </a>
     <a href="mailto:info@neuml.com">
-        <img src="https://img.shields.io/badge/email-contact-03a9f4" alt="Email">
+        <img src="https://img.shields.io/badge/email-contact-ffeb3b" alt="Email">
     </a>
     <a href="https://join.slack.com/t/txtai/shared_invite/zt-1cagya4yf-DQeuZbd~aMwH5pckBU4vPg">
-        <img src="https://img.shields.io/badge/slack-join-ffeb3b?style=flat&logo=slack&logocolor=white" alt="Join Slack"/>
+        <img src="https://img.shields.io/badge/slack-join-00e676?style=flat&logo=slack&logocolor=white" alt="Join Slack"/>
     </a>
     <a href="https://txtai.cloud">
-        <img src="https://img.shields.io/badge/cloud-preview-00e676" alt="Cloud"/>
+        <img src="https://img.shields.io/badge/cloud-preview-eeeeee" alt="Cloud"/>
     </a>
 </p>
 
