@@ -3,6 +3,9 @@
 </p>
 
 <p align="center">
+    <a href="https://cal.com/neuml/intro">
+        <img src="https://img.shields.io/badge/meeting-schedule-eeeeee" alt="Meet">
+    </a>
     <a href="mailto:info@neuml.com">
         <img src="https://img.shields.io/badge/email-contact-03a9f4" alt="Email">
     </a>
@@ -15,9 +18,9 @@
 </p>
 
 <p>
-NeuML is the company behind txtai, an all-in-one embeddings database for semantic search, LLM orchestration and language model workflows.
+NeuML is the company behind txtai, one of the most popular open-source AI frameworks in the world.
 </p>
 
 <p>
-We are building a suite of applications to bridge the gap between research and production.
+We are building a suite of applications to make it easy to integrate AI into production.
 </p>
